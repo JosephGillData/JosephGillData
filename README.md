@@ -1,6 +1,5 @@
 # Hi, I'm Joe 👋
----
-Learning AI with good UI.
+Learning AI with good UI
 ### Projects
 🧠 [raglab](https://github.com/JosephGillData/raglab) - Local-first RAG workbench for Markdown knowledge bases
 ### Connect
