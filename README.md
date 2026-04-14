@@ -1,19 +1,9 @@
-# Joe Gill
-
-Creating things with code
-
-## Projects
-
-* 🧠 raglab — Local-first RAG workbench for Markdown knowledge bases
-* ⚙️ More projects coming soon
-
-
-## Links
-
-* Twitter: [[your link](https://x.com/joegilldata)]
-
+# Hi, I'm Joe 👋
 ---
-
-## Notes
-
-Learning by building in public.
+Creating things with code
+### Projects
+🧠 [raglab](https://github.com/JosephGillData/raglab) - Local-first RAG workbench for Markdown knowledge bases
+### Connect
+- Twitter: [JoeGillData](https://x.com/joegilldata)
+- GitHub: [JosephGillData](https://github.com/JosephGillData) 
+- LinkedIn: [Joseph Gill](linkedin.com/in/joseph-gill-726b52182/?skipRedirect=true)
