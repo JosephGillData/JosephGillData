@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm [Your Name]
 
-<!--
-**JosephGillData/JosephGillData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer
 
-Here are some ideas to get you started:
+5 years as a Data Scientist → now building AI systems end-to-end
+BSc Mathematics & Data Science — University of Exeter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm doing
+
+* Building and shipping AI tools
+* Exploring RAG systems and retrieval quality
+* Creating open-source developer tooling
+* Rapid prototyping → real systems
+
+---
+
+## Projects
+
+* 🧠 raglab — Local-first RAG workbench for Markdown knowledge bases
+* ⚙️ More projects coming soon
+
+---
+
+## Focus
+
+* LLM systems
+* RAG architecture
+* Local-first AI
+* Fast iteration
+
+---
+
+## Links
+
+* Twitter: [your link]
+
+---
+
+## Notes
+
+Learning by building in public.
